@@ -16,10 +16,12 @@ namespace b15
             Console.WriteLine("---------------------");
             dsnv.Xuat();
             Console.WriteLine("---------------------");
+            Console.WriteLine("Câu 2:");
             dsnv.Cau2();
             Console.WriteLine("---------------------");
             dsnv.KiemTraVaCham2();
             Console.WriteLine("---------------------");
+            Console.WriteLine("Câu 3:");
             dsnv.Cau3();
             Console.WriteLine("---------------------");
 
