@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,11 +16,11 @@ namespace b15
             Console.WriteLine("---------------------");
             dsnv.Xuat();
             Console.WriteLine("---------------------");
-            dsnv.KiemTraVaCham();
+            dsnv.Cau2();
             Console.WriteLine("---------------------");
             dsnv.KiemTraVaCham2();
             Console.WriteLine("---------------------");
-            dsnv.KiemTraVaCham3();
+            dsnv.Cau3();
             Console.WriteLine("---------------------");
 
             Console.ReadKey();
