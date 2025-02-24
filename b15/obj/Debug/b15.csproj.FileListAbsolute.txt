@@ -1,0 +1,7 @@
+E:\C#\B15\b15\b15\bin\Debug\b15.exe.config
+E:\C#\B15\b15\b15\bin\Debug\b15.exe
+E:\C#\B15\b15\b15\bin\Debug\b15.pdb
+E:\C#\B15\b15\b15\obj\Debug\b15.csproj.AssemblyReference.cache
+E:\C#\B15\b15\b15\obj\Debug\b15.csproj.CoreCompileInputs.cache
+E:\C#\B15\b15\b15\obj\Debug\b15.exe
+E:\C#\B15\b15\b15\obj\Debug\b15.pdb
