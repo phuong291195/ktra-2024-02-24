@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,7 +62,7 @@ namespace b15
                 Console.WriteLine();
             }
         }
-        public void KiemTraVaCham()
+        public void Cau2()
         {
             Console.WriteLine("Chọn vị trí 1 nhân vật:");
             int index = int.Parse(Console.ReadLine());
@@ -126,7 +126,7 @@ namespace b15
 
             
         }
-        public void KiemTraVaCham3()
+        public void Cau3()
         {
             Console.WriteLine("Chọn vị trí 1 nhân vật:");
             int index = int.Parse(Console.ReadLine());
